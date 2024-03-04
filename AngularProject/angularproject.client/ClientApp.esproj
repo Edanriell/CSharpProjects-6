@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.271090-alpha">
+  <PropertyGroup>
+    <StartupCommand>npm start</StartupCommand>
+    <JavaScriptTestFramework>Jasmine</JavaScriptTestFramework>
+    <!-- Allows the build (or compile) script located on package.json to run on Build -->
+    <ShouldRunBuildScript>false</ShouldRunBuildScript>
+    <!-- Folder where production build objects will be placed -->
+    <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\angularproject.client\</BuildOutputFolder>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\0.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\1.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\10.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\2.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\3.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\4.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\5.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\6.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\7.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\8.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\9.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\index.pack" />
+    <None Include=".angular\cache\angular-webpack\311265259c620afc998b3bc3339dd3e18aa49afd\index.pack.old" />
+    <None Include=".angular\cache\angular-webpack\48f4c61cd08f76e59e031e38b9bd62c78a7813a2\0.pack" />
+    <None Include=".angular\cache\angular-webpack\48f4c61cd08f76e59e031e38b9bd62c78a7813a2\index.pack" />
+    <None Include=".angular\cache\angular-webpack\bd8a140056cab6baeb5bde9087ad495087518dc6\0.pack" />
+    <None Include=".angular\cache\angular-webpack\bd8a140056cab6baeb5bde9087ad495087518dc6\index.pack" />
+    <None Include=".angular\cache\babel-webpack\0e0a19d40f605b8a1b3cca29964f0531.json" />
+    <None Include=".angular\cache\babel-webpack\2e6c0246478b4a3e12adb3f4ac9ea456.json" />
+    <None Include=".angular\cache\babel-webpack\332ea54418aa9ce62d85e8b5de6f07e3.json" />
+    <None Include=".angular\cache\babel-webpack\462326b59ddbadb17776997ce231280b.json" />
+    <None Include=".angular\cache\babel-webpack\54060c1469844ab4c2f4f7b0893227d2.json" />
+    <None Include=".angular\cache\babel-webpack\5453c62d27832d0d81f980ca4cda609e.json" />
+    <None Include=".angular\cache\babel-webpack\73188ef785e55cba9c53aacf19b2718a.json" />
+    <None Include=".angular\cache\babel-webpack\736bc20f17b6e530cf25d813918cb2b4.json" />
+    <None Include=".angular\cache\babel-webpack\7f2b07ef05ec9f4be87a2b1a5ba85984.json" />
+    <None Include=".angular\cache\babel-webpack\892d6efa6a216c4bfabcc2679975c4fe.json" />
+    <None Include=".angular\cache\babel-webpack\931d7cfdfeba1b304a4ab390861fda82.json" />
+    <None Include=".angular\cache\babel-webpack\a14203e2db09148b1bfcca8e0d26ab81.json" />
+    <None Include=".angular\cache\babel-webpack\bc2b806eb078a385f8c968b884e360f1.json" />
+    <None Include=".angular\cache\babel-webpack\e55cbf3a7ada938ac0cd008168b5de77.json" />
+    <None Include=".angular\cache\babel-webpack\f703485517c381ff8e9780b1fd0ca0a3.json" />
+  </ItemGroup>
+</Project>

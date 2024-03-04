@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\skiasharp\\skiasharp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|solutionrelative:skiasharp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\skiasharp\\skiasharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|solutionrelative:skiasharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\skiasharp\\skiasharp\\skiasharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7BD50DC-340C-4625-80B2-8D3C03F77800}|SkiaSharp\\SkiaSharp.csproj|solutionrelative:skiasharp\\skiasharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\_Imports.razor",
+              "RelativeDocumentMoniker": "SkiaSharp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\_Imports.razor",
+              "RelativeToolTip": "SkiaSharp\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T05:30:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\Program.cs",
+              "RelativeDocumentMoniker": "SkiaSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\Program.cs",
+              "RelativeToolTip": "SkiaSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:30:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkiaSharp",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\SkiaSharp.csproj",
+              "RelativeDocumentMoniker": "SkiaSharp\\SkiaSharp.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SkiaSharp\\SkiaSharp\\SkiaSharp.csproj",
+              "RelativeToolTip": "SkiaSharp\\SkiaSharp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T05:28:17.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

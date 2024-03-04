@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\blazorwebassemblyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\blazorwebassemblyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\interfacegenerator\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\interfacegenerator\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorwebassemblyapp\\blazorwebassemblyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582A0070-DE4D-4293-B978-F967BE9A97F6}|BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj|solutionrelative:blazorwebassemblyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:14:50.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:14:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T06:14:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:14:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\FetchData.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:14:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:14:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\InterfaceGenerator\\SampleService.cs",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\InterfaceGenerator\\SampleService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\InterfaceGenerator\\SampleService.cs",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\InterfaceGenerator\\SampleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:14:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\_Imports.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:15:34.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorWebAssemblyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T06:12:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T06:14:39.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:15:35.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\MainLayout.razor",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:15:28.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp\\Program.cs",
+              "RelativeToolTip": "BlazorWebAssemblyApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:06:58.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorhybridapp\\blazorhybridapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D412F689-69D8-46F1-B1C5-AACA4245958F}|BlazorHybridApp\\BlazorHybridApp.csproj|solutionrelative:blazorhybridapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "BlazorHybridApp\\Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:01:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "BlazorHybridApp\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:01:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorHybridApp\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T06:01:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\App.xaml.cs",
+              "RelativeToolTip": "BlazorHybridApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:00:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\App.xaml",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\App.xaml",
+              "RelativeToolTip": "BlazorHybridApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T06:00:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "BlazorHybridApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:00:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MainPage.xaml",
+              "RelativeToolTip": "BlazorHybridApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T06:00:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\MauiProgram.cs",
+              "RelativeToolTip": "BlazorHybridApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:00:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorHybridApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorHybridApp\\BlazorHybridApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorHybridApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T05:36:49.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

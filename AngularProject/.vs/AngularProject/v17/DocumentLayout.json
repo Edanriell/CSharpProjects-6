@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EFCF0-7E0E-445B-914D-EA22CC102392}|angularproject.client\\ClientApp.esproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA1EFCF0-7E0E-445B-914D-EA22CC102392}|angularproject.client\\ClientApp.esproj|solutionrelative:angularproject.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|solutionrelative:angularproject.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.server\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|solutionrelative:angularproject.server\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|solutionrelative:angularproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB016E-E7B9-4CD3-9CEA-61795B8130AD}|AngularProject.Server\\AngularProject.Server.csproj|solutionrelative:angularproject.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EFCF0-7E0E-445B-914D-EA22CC102392}|angularproject.client\\ClientApp.esproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\angularproject\\angularproject.client\\clientapp.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA1EFCF0-7E0E-445B-914D-EA22CC102392}|angularproject.client\\ClientApp.esproj|solutionrelative:angularproject.client\\clientapp.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\angularproject.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\angularproject.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-04T03:43:34.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AngularProject.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AngularProject.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:41:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "AngularProject.Server\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "AngularProject.Server\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:40:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularProject.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\Program.cs",
+              "RelativeToolTip": "AngularProject.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:39:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AngularProject.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\AngularProject.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "AngularProject.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:37:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientApp.esproj",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\angularproject.client\\ClientApp.esproj",
+              "RelativeDocumentMoniker": "angularproject.client\\ClientApp.esproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\AngularProject\\angularproject.client\\ClientApp.esproj",
+              "RelativeToolTip": "angularproject.client\\ClientApp.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-04T03:35:27.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

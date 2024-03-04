@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorCustomElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73385E93-C115-43F0-8963-FF3374FAE36B}|BlazorCustomElements\\BlazorCustomElements.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorcustomelements\\blazorcustomelements\\blazorcustomelements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73385E93-C115-43F0-8963-FF3374FAE36B}|BlazorCustomElements\\BlazorCustomElements.csproj|solutionrelative:blazorcustomelements\\blazorcustomelements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73385E93-C115-43F0-8963-FF3374FAE36B}|BlazorCustomElements\\BlazorCustomElements.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\blazorcustomelements\\blazorcustomelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73385E93-C115-43F0-8963-FF3374FAE36B}|BlazorCustomElements\\BlazorCustomElements.csproj|solutionrelative:blazorcustomelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorCustomElements",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorCustomElements\\BlazorCustomElements\\BlazorCustomElements.csproj",
+              "RelativeDocumentMoniker": "BlazorCustomElements\\BlazorCustomElements.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorCustomElements\\BlazorCustomElements\\BlazorCustomElements.csproj",
+              "RelativeToolTip": "BlazorCustomElements\\BlazorCustomElements.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T03:50:54.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorCustomElements\\BlazorCustomElements\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorCustomElements\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\BlazorCustomElements\\BlazorCustomElements\\Program.cs",
+              "RelativeToolTip": "BlazorCustomElements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:50:24.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

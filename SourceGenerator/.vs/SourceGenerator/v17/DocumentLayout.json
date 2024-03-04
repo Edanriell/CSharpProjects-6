@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SourceGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142A989A-9C3E-4447-993A-B4F831404FA9}|SourceGenerator\\SourceGenerator.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\sourcegenerator\\sourcegenerator\\sourcegenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{142A989A-9C3E-4447-993A-B4F831404FA9}|SourceGenerator\\SourceGenerator.csproj|solutionrelative:sourcegenerator\\sourcegenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142A989A-9C3E-4447-993A-B4F831404FA9}|SourceGenerator\\SourceGenerator.csproj|c:\\users\\lauris\\desktop\\csharpprojects-6\\sourcegenerator\\sourcegenerator\\hellosourcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142A989A-9C3E-4447-993A-B4F831404FA9}|SourceGenerator\\SourceGenerator.csproj|solutionrelative:sourcegenerator\\hellosourcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SourceGenerator.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SourceGenerator\\SourceGenerator\\SourceGenerator.csproj",
+              "RelativeDocumentMoniker": "SourceGenerator\\SourceGenerator.csproj",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SourceGenerator\\SourceGenerator\\SourceGenerator.csproj",
+              "RelativeToolTip": "SourceGenerator\\SourceGenerator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T06:05:00.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloSourceGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SourceGenerator\\SourceGenerator\\HelloSourceGenerator.cs",
+              "RelativeDocumentMoniker": "SourceGenerator\\HelloSourceGenerator.cs",
+              "ToolTip": "C:\\Users\\Lauris\\Desktop\\CSharpProjects-6\\SourceGenerator\\SourceGenerator\\HelloSourceGenerator.cs",
+              "RelativeToolTip": "SourceGenerator\\HelloSourceGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:03:31.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
